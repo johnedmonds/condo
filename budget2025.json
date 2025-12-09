@@ -5,7 +5,7 @@
                 {
                     "category": "Income",
                     "annual": {
-                        "actual": 201984.08,
+                        "actual": 202589.02,
                         "budget": 205166.03999999992,
                         "__typename": "BudgetActual"
                     },
@@ -88,7 +88,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 14268.410000000002,
+                            "actual": 14873.350000000002,
                             "budget": 17097.17,
                             "month": 12,
                             "year": 2025,
@@ -99,7 +99,7 @@
                         {
                             "category": "Common Charges",
                             "annual": {
-                                "actual": 201984.08,
+                                "actual": 202589.02,
                                 "budget": 205166.03999999992,
                                 "transactions": [
                                     {
@@ -2141,6 +2141,14 @@
                                         "amount": 869.17,
                                         "date": "2025-12-01",
                                         "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59002990,
+                                        "transactionType": null,
+                                        "description": "by Crystal Xia",
+                                        "amount": 604.94,
+                                        "date": "2025-12-08",
+                                        "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
                                 "__typename": "BudgetActualSubAccount"
@@ -4128,7 +4136,7 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 14268.410000000002,
+                                    "actual": 14873.350000000002,
                                     "budget": 17097.17,
                                     "transactions": [
                                         {
@@ -4265,6 +4273,14 @@
                                             "description": "by Erin Price",
                                             "amount": 869.17,
                                             "date": "2025-12-01",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59002990,
+                                            "transactionType": null,
+                                            "description": "by Crystal Xia",
+                                            "amount": 604.94,
+                                            "date": "2025-12-08",
                                             "__typename": "GeneralLedgerEntryTransaction"
                                         }
                                     ],
@@ -7030,7 +7046,7 @@
                 {
                     "category": "Administrative Expenses",
                     "annual": {
-                        "actual": 32701.28,
+                        "actual": 35276.28,
                         "budget": 37645.08,
                         "__typename": "BudgetActual"
                     },
@@ -7113,7 +7129,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 0,
+                            "actual": 2575,
                             "budget": 3137.09,
                             "month": 12,
                             "year": 2025,
@@ -7345,7 +7361,7 @@
                         {
                             "category": "Management Fees",
                             "annual": {
-                                "actual": 28175,
+                                "actual": 30750,
                                 "budget": 30750,
                                 "transactions": [
                                     {
@@ -7434,6 +7450,14 @@
                                         "description": "Monthly Mgmt Fee",
                                         "amount": 2575,
                                         "date": "2025-11-05",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 58939934,
+                                        "transactionType": null,
+                                        "description": "Monthly Mgmt Fee",
+                                        "amount": 2575,
+                                        "date": "2025-12-05",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -7604,9 +7628,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 2575,
                                     "budget": 2562.5,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 58939934,
+                                            "transactionType": null,
+                                            "description": "Monthly Mgmt Fee",
+                                            "amount": 2575,
+                                            "date": "2025-12-05",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
