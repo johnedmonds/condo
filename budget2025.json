@@ -5,8 +5,8 @@
                 {
                     "category": "Income",
                     "annual": {
-                        "actual": 202589.02,
-                        "budget": 205166.03999999992,
+                        "actual": 206048.31,
+                        "budget": 222263.2099999999,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -88,7 +88,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 14873.350000000002,
+                            "actual": 18332.64,
                             "budget": 17097.17,
                             "month": 12,
                             "year": 2025,
@@ -99,8 +99,8 @@
                         {
                             "category": "Common Charges",
                             "annual": {
-                                "actual": 202589.02,
-                                "budget": 205166.03999999992,
+                                "actual": 206048.31,
+                                "budget": 222263.2099999999,
                                 "transactions": [
                                     {
                                         "id": 48088235,
@@ -2149,6 +2149,46 @@
                                         "amount": 604.94,
                                         "date": "2025-12-08",
                                         "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59367838,
+                                        "transactionType": null,
+                                        "description": "by Bryon Lee",
+                                        "amount": 618.84,
+                                        "date": "2025-12-26",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59510654,
+                                        "transactionType": null,
+                                        "description": "by Brian Alcazar",
+                                        "amount": 870.91,
+                                        "date": "2025-12-27",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59599292,
+                                        "transactionType": null,
+                                        "description": "by Shenhan Zhu",
+                                        "amount": 481.53,
+                                        "date": "2025-12-31",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59599295,
+                                        "transactionType": null,
+                                        "description": "by Raymond Lou",
+                                        "amount": 618.84,
+                                        "date": "2025-12-31",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59634090,
+                                        "transactionType": null,
+                                        "description": "by Erin Price",
+                                        "amount": 869.17,
+                                        "date": "2025-12-31",
+                                        "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
                                 "__typename": "BudgetActualSubAccount"
@@ -4136,7 +4176,7 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 14873.350000000002,
+                                    "actual": 18332.64,
                                     "budget": 17097.17,
                                     "transactions": [
                                         {
@@ -4282,6 +4322,46 @@
                                             "amount": 604.94,
                                             "date": "2025-12-08",
                                             "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59367838,
+                                            "transactionType": null,
+                                            "description": "by Bryon Lee",
+                                            "amount": 618.84,
+                                            "date": "2025-12-26",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59510654,
+                                            "transactionType": null,
+                                            "description": "by Brian Alcazar",
+                                            "amount": 870.91,
+                                            "date": "2025-12-27",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59599292,
+                                            "transactionType": null,
+                                            "description": "by Shenhan Zhu",
+                                            "amount": 481.53,
+                                            "date": "2025-12-31",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59599295,
+                                            "transactionType": null,
+                                            "description": "by Raymond Lou",
+                                            "amount": 618.84,
+                                            "date": "2025-12-31",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59634090,
+                                            "transactionType": null,
+                                            "description": "by Erin Price",
+                                            "amount": 869.17,
+                                            "date": "2025-12-31",
+                                            "__typename": "GeneralLedgerEntryTransaction"
                                         }
                                     ],
                                     "__typename": "BudgetActualSubAccount"
@@ -4295,8 +4375,8 @@
                 {
                     "category": "Misc. Operating Income",
                     "annual": {
-                        "actual": 16259.59,
-                        "budget": 13899.96,
+                        "actual": 16409.59,
+                        "budget": 15058.289999999999,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -4378,7 +4458,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 778.23,
+                            "actual": 928.23,
                             "budget": 1158.33,
                             "month": 12,
                             "year": 2025,
@@ -4810,8 +4890,8 @@
                         {
                             "category": "Parking Income",
                             "annual": {
-                                "actual": 13633.8,
-                                "budget": 13899.96,
+                                "actual": 13783.8,
+                                "budget": 15058.289999999999,
                                 "transactions": [
                                     {
                                         "id": 48088235,
@@ -5811,6 +5891,22 @@
                                         "description": "by Erin Price",
                                         "amount": 75,
                                         "date": "2025-12-01",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59510654,
+                                        "transactionType": null,
+                                        "description": "by Brian Alcazar",
+                                        "amount": 75,
+                                        "date": "2025-12-27",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59634090,
+                                        "transactionType": null,
+                                        "description": "by Erin Price",
+                                        "amount": 75,
+                                        "date": "2025-12-31",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -6815,7 +6911,7 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 750,
+                                    "actual": 900,
                                     "budget": 1158.33,
                                     "transactions": [
                                         {
@@ -6896,6 +6992,22 @@
                                             "description": "by Erin Price",
                                             "amount": 75,
                                             "date": "2025-12-01",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59510654,
+                                            "transactionType": null,
+                                            "description": "by Brian Alcazar",
+                                            "amount": 75,
+                                            "date": "2025-12-27",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59634090,
+                                            "transactionType": null,
+                                            "description": "by Erin Price",
+                                            "amount": 75,
+                                            "date": "2025-12-31",
                                             "__typename": "GeneralLedgerEntryTransaction"
                                         }
                                     ],
@@ -7046,8 +7158,8 @@
                 {
                     "category": "Administrative Expenses",
                     "annual": {
-                        "actual": 35276.28,
-                        "budget": 37645.08,
+                        "actual": 35476.28,
+                        "budget": 40782.17,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -7129,7 +7241,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 2575,
+                            "actual": 2775,
                             "budget": 3137.09,
                             "month": 12,
                             "year": 2025,
@@ -7362,7 +7474,7 @@
                             "category": "Management Fees",
                             "annual": {
                                 "actual": 30750,
-                                "budget": 30750,
+                                "budget": 33312.5,
                                 "transactions": [
                                     {
                                         "id": 48295373,
@@ -7649,7 +7761,7 @@
                             "category": "Accounting / Audit / Tax Services",
                             "annual": {
                                 "actual": 2500,
-                                "budget": 4500,
+                                "budget": 4875,
                                 "transactions": [
                                     {
                                         "id": 53348770,
@@ -7751,7 +7863,7 @@
                             "category": "Prof. Fees for Tax Abatement / Certiorari",
                             "annual": {
                                 "actual": 395,
-                                "budget": 395.04000000000013,
+                                "budget": 427.96000000000015,
                                 "transactions": [
                                     {
                                         "id": 56176617,
@@ -7852,8 +7964,8 @@
                         {
                             "category": "Mgmt Advisory fees",
                             "annual": {
-                                "actual": 1285,
-                                "budget": 2000.0400000000002,
+                                "actual": 1485,
+                                "budget": 2166.71,
                                 "transactions": [
                                     {
                                         "id": 52500056,
@@ -7861,6 +7973,14 @@
                                         "description": "LL84/88/98 - Final Payment",
                                         "amount": 1285,
                                         "date": "2025-05-18",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59315733,
+                                        "transactionType": null,
+                                        "description": "",
+                                        "amount": 200,
+                                        "date": "2025-12-24",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -7943,9 +8063,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 200,
                                     "budget": 166.67,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59315733,
+                                            "transactionType": null,
+                                            "description": "",
+                                            "amount": 200,
+                                            "date": "2025-12-24",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -7957,8 +8086,8 @@
                 {
                     "category": "Building Operating Expenses",
                     "annual": {
-                        "actual": 56401.990000000005,
-                        "budget": 50296.08,
+                        "actual": 62861.08,
+                        "budget": 54487.42,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -8040,7 +8169,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 1162.85,
+                            "actual": 7621.9400000000005,
                             "budget": 4191.34,
                             "month": 12,
                             "year": 2025,
@@ -8051,8 +8180,8 @@
                         {
                             "category": "Pest Control Services",
                             "annual": {
-                                "actual": 1601.97,
-                                "budget": 1892.0400000000002,
+                                "actual": 1787.06,
+                                "budget": 2049.71,
                                 "transactions": [
                                     {
                                         "id": 48630321,
@@ -8148,6 +8277,14 @@
                                         "description": "Pest control service",
                                         "amount": 185.09,
                                         "date": "2025-12-03",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59281760,
+                                        "transactionType": null,
+                                        "description": "Pest management service",
+                                        "amount": 185.09,
+                                        "date": "2025-12-22",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -8318,7 +8455,7 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 185.09,
+                                    "actual": 370.18,
                                     "budget": 157.67,
                                     "transactions": [
                                         {
@@ -8327,6 +8464,14 @@
                                             "description": "Pest control service",
                                             "amount": 185.09,
                                             "date": "2025-12-03",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59281760,
+                                            "transactionType": null,
+                                            "description": "Pest management service",
+                                            "amount": 185.09,
+                                            "date": "2025-12-22",
                                             "__typename": "GeneralLedgerEntryTransaction"
                                         }
                                     ],
@@ -8338,8 +8483,8 @@
                         {
                             "category": "Fire Monitoring",
                             "annual": {
-                                "actual": 6061.27,
-                                "budget": 5670,
+                                "actual": 7660.27,
+                                "budget": 6142.5,
                                 "transactions": [
                                     {
                                         "id": 51413346,
@@ -8371,6 +8516,14 @@
                                         "description": "Fire Alarm Inspection & Lease Service",
                                         "amount": 1466.97,
                                         "date": "2025-09-16",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59281793,
+                                        "transactionType": null,
+                                        "description": "Fire Alarm",
+                                        "amount": 1599,
+                                        "date": "2025-12-22",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -8480,9 +8633,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 1599,
                                     "budget": 472.5,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59281793,
+                                            "transactionType": null,
+                                            "description": "Fire Alarm",
+                                            "amount": 1599,
+                                            "date": "2025-12-22",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -8492,7 +8654,7 @@
                             "category": "Elevator - Contract",
                             "annual": {
                                 "actual": 5822.12,
-                                "budget": 5340,
+                                "budget": 5785,
                                 "transactions": [
                                     {
                                         "id": 48515984,
@@ -8779,7 +8941,7 @@
                             "category": "Intercom Service Contract",
                             "annual": {
                                 "actual": 3110.12,
-                                "budget": 2874,
+                                "budget": 3113.5,
                                 "transactions": [
                                     {
                                         "id": 50578796,
@@ -9016,8 +9178,8 @@
                         {
                             "category": "Cleaning & General Maintenance Services",
                             "annual": {
-                                "actual": 26414.49,
-                                "budget": 27300,
+                                "actual": 31089.49,
+                                "budget": 29575,
                                 "transactions": [
                                     {
                                         "id": 48418494,
@@ -9137,6 +9299,22 @@
                                         "description": "",
                                         "amount": 2275,
                                         "date": "2025-11-10",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59080606,
+                                        "transactionType": null,
+                                        "description": "",
+                                        "amount": 2275,
+                                        "date": "2025-12-15",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59610420,
+                                        "transactionType": null,
+                                        "description": "906 Prospect - Snow removal program",
+                                        "amount": 2400,
+                                        "date": "2025-12-31",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -9340,9 +9518,26 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 4675,
                                     "budget": 2275,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59080606,
+                                            "transactionType": null,
+                                            "description": "",
+                                            "amount": 2275,
+                                            "date": "2025-12-15",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        },
+                                        {
+                                            "id": 59610420,
+                                            "transactionType": null,
+                                            "description": "906 Prospect - Snow removal program",
+                                            "amount": 2400,
+                                            "date": "2025-12-31",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -9352,7 +9547,7 @@
                             "category": "Cleaning & General Maintenance Supplies",
                             "annual": {
                                 "actual": 3735.89,
-                                "budget": 2000.0400000000002,
+                                "budget": 2166.71,
                                 "transactions": [
                                     {
                                         "id": 48515974,
@@ -9622,7 +9817,7 @@
                             "category": "Sprinkler/Standpipe System",
                             "annual": {
                                 "actual": 9330.59,
-                                "budget": 5220,
+                                "budget": 5655,
                                 "transactions": [
                                     {
                                         "id": 49293533,
@@ -9743,8 +9938,8 @@
                 {
                     "category": "Compliance & Monitoring",
                     "annual": {
-                        "actual": 4663.27,
-                        "budget": 9069.96,
+                        "actual": 4703.27,
+                        "budget": 9825.789999999999,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -9826,7 +10021,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 0,
+                            "actual": 40,
                             "budget": 755.83,
                             "month": 12,
                             "year": 2025,
@@ -9973,7 +10168,7 @@
                             "category": "Elevator Inspection & CAT 1/5 Test",
                             "annual": {
                                 "actual": 2810,
-                                "budget": 1785,
+                                "budget": 1933.75,
                                 "transactions": [
                                     {
                                         "id": 51413203,
@@ -10092,7 +10287,7 @@
                             "category": "Fire Inspections",
                             "annual": {
                                 "actual": 684.82,
-                                "budget": 500.04000000000013,
+                                "budget": 541.7100000000002,
                                 "transactions": [
                                     {
                                         "id": 52845659,
@@ -10194,7 +10389,7 @@
                             "category": "Misc. Inspection fee",
                             "annual": {
                                 "actual": 0,
-                                "budget": 6384.96,
+                                "budget": 6917.04,
                                 "transactions": [],
                                 "__typename": "BudgetActualSubAccount"
                             },
@@ -10277,8 +10472,8 @@
                         {
                             "category": "Compliance Monitoring Fee",
                             "annual": {
-                                "actual": 968.45,
-                                "budget": 399.95999999999987,
+                                "actual": 1008.45,
+                                "budget": 433.28999999999985,
                                 "transactions": [
                                     {
                                         "id": 49286504,
@@ -10358,6 +10553,14 @@
                                         "description": "Monitoring:Daisy-Building Monitoring- $25/Month Quarterly Charge",
                                         "amount": 75,
                                         "date": "2025-10-28",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59320277,
+                                        "transactionType": null,
+                                        "description": "",
+                                        "amount": 40,
+                                        "date": "2025-12-24",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -10517,9 +10720,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 40,
                                     "budget": 33.33,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59320277,
+                                            "transactionType": null,
+                                            "description": "",
+                                            "amount": 40,
+                                            "date": "2025-12-24",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -10531,8 +10743,8 @@
                 {
                     "category": "Insurance",
                     "annual": {
-                        "actual": 29016.67,
-                        "budget": 40291.92,
+                        "actual": 31198.71,
+                        "budget": 43649.58,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -10614,7 +10826,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 0,
+                            "actual": 2182.04,
                             "budget": 3357.66,
                             "month": 12,
                             "year": 2025,
@@ -10625,8 +10837,8 @@
                         {
                             "category": "Insurance policies",
                             "annual": {
-                                "actual": 29016.67,
-                                "budget": 40291.92,
+                                "actual": 31198.71,
+                                "budget": 43649.58,
                                 "transactions": [
                                     {
                                         "id": 48340824,
@@ -10754,6 +10966,14 @@
                                         "description": "Payment 8 of 10 for package TBD",
                                         "amount": 2182.04,
                                         "date": "2025-11-26",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59565717,
+                                        "transactionType": null,
+                                        "description": "Payment 9 of 10 for package TBD",
+                                        "amount": 2182.04,
+                                        "date": "2025-12-26",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -10965,9 +11185,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 2182.04,
                                     "budget": 3357.66,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59565717,
+                                            "transactionType": null,
+                                            "description": "Payment 9 of 10 for package TBD",
+                                            "amount": 2182.04,
+                                            "date": "2025-12-26",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -10979,8 +11208,8 @@
                 {
                     "category": "Non-Recurring-  Repairs",
                     "annual": {
-                        "actual": 33752.1,
-                        "budget": 15500.04,
+                        "actual": 34445.19,
+                        "budget": 16791.71,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -11062,7 +11291,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 4279.47,
+                            "actual": 4972.56,
                             "budget": 1291.67,
                             "month": 12,
                             "year": 2025,
@@ -11074,7 +11303,7 @@
                             "category": "Plumbing Repairs",
                             "annual": {
                                 "actual": 190.53,
-                                "budget": 2000.0400000000002,
+                                "budget": 2166.71,
                                 "transactions": [
                                     {
                                         "id": 48205325,
@@ -11278,7 +11507,7 @@
                             "category": "Common Area Repairs",
                             "annual": {
                                 "actual": 949.75,
-                                "budget": 1500,
+                                "budget": 1625,
                                 "transactions": [
                                     {
                                         "id": 51386086,
@@ -11414,7 +11643,7 @@
                             "category": "Elevator Repairs",
                             "annual": {
                                 "actual": 12524,
-                                "budget": 999.9600000000002,
+                                "budget": 1083.2900000000002,
                                 "transactions": [
                                     {
                                         "id": 50651533,
@@ -11584,7 +11813,7 @@
                             "category": "Door & Lock Repairs",
                             "annual": {
                                 "actual": 5446.4,
-                                "budget": 999.9600000000002,
+                                "budget": 1083.2900000000002,
                                 "transactions": [
                                     {
                                         "id": 50578794,
@@ -11800,8 +12029,8 @@
                         {
                             "category": "Electrical Repairs",
                             "annual": {
-                                "actual": 1450,
-                                "budget": 2000.0400000000002,
+                                "actual": 2143.09,
+                                "budget": 2166.71,
                                 "transactions": [
                                     {
                                         "id": 49293670,
@@ -11809,6 +12038,14 @@
                                         "description": "Found five exterior light fixtures not working. Replaced five light fixtures in existing locations to existing wiring to restore service",
                                         "amount": 1450,
                                         "date": "2025-02-07",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59549640,
+                                        "transactionType": null,
+                                        "description": "emergency - garage door stuck closed",
+                                        "amount": 693.09,
+                                        "date": "2025-12-29",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -11891,9 +12128,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 693.09,
                                     "budget": 166.67,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59549640,
+                                            "transactionType": null,
+                                            "description": "emergency - garage door stuck closed",
+                                            "amount": 693.09,
+                                            "date": "2025-12-29",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -12071,7 +12317,7 @@
                             "category": "Misc Repairs",
                             "annual": {
                                 "actual": 0,
-                                "budget": 7500,
+                                "budget": 8125,
                                 "transactions": [],
                                 "__typename": "BudgetActualSubAccount"
                             },
@@ -12155,7 +12401,7 @@
                             "category": "Boiler & Water Tank Repairs",
                             "annual": {
                                 "actual": 2393.07,
-                                "budget": 500.04000000000013,
+                                "budget": 541.7100000000002,
                                 "transactions": [
                                     {
                                         "id": 54434326,
@@ -12513,7 +12759,7 @@
                     "category": "Taxes",
                     "annual": {
                         "actual": 188,
-                        "budget": 1150.0800000000002,
+                        "budget": 1245.92,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -12607,7 +12853,7 @@
                             "category": "Property Taxes",
                             "annual": {
                                 "actual": 188,
-                                "budget": 650.04,
+                                "budget": 704.2099999999999,
                                 "transactions": [
                                     {
                                         "id": 53883810,
@@ -12726,7 +12972,7 @@
                             "category": "Corporate Taxes",
                             "annual": {
                                 "actual": 0,
-                                "budget": 500.04000000000013,
+                                "budget": 541.7100000000002,
                                 "transactions": [],
                                 "__typename": "BudgetActualSubAccount"
                             },
@@ -12812,8 +13058,8 @@
                 {
                     "category": "Utilities",
                     "annual": {
-                        "actual": 51352.009999999995,
-                        "budget": 59616.96,
+                        "actual": 56031.16,
+                        "budget": 64585.04,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -12895,7 +13141,7 @@
                             "__typename": "DateStampedBudgetActual"
                         },
                         {
-                            "actual": 0,
+                            "actual": 4679.15,
                             "budget": 4968.08,
                             "month": 12,
                             "year": 2025,
@@ -12906,8 +13152,8 @@
                         {
                             "category": "Electricity",
                             "annual": {
-                                "actual": 38999.06,
-                                "budget": 46100.52,
+                                "actual": 42505.19,
+                                "budget": 49942.229999999996,
                                 "transactions": [
                                     {
                                         "id": 49451676,
@@ -12971,6 +13217,14 @@
                                         "description": "Billing period: Sep 22, 2025 to Oct 22, 2025",
                                         "amount": 3346.84,
                                         "date": "2025-11-10",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59111027,
+                                        "transactionType": null,
+                                        "description": "",
+                                        "amount": 3506.13,
+                                        "date": "2025-12-09",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -13116,9 +13370,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 3506.13,
                                     "budget": 3841.71,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59111027,
+                                            "transactionType": null,
+                                            "description": "",
+                                            "amount": 3506.13,
+                                            "date": "2025-12-09",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -13127,8 +13390,8 @@
                         {
                             "category": "Cable/ Satellite/Internet/Telephone",
                             "annual": {
-                                "actual": 2590.32,
-                                "budget": 2124,
+                                "actual": 2847.77,
+                                "budget": 2301,
                                 "transactions": [
                                     {
                                         "id": 48377275,
@@ -13184,6 +13447,14 @@
                                         "description": "",
                                         "amount": 530.78,
                                         "date": "2025-11-06",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59195703,
+                                        "transactionType": null,
+                                        "description": "",
+                                        "amount": 257.45,
+                                        "date": "2025-12-15",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -13319,9 +13590,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 257.45,
                                     "budget": 177,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59195703,
+                                            "transactionType": null,
+                                            "description": "",
+                                            "amount": 257.45,
+                                            "date": "2025-12-15",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -13330,8 +13610,8 @@
                         {
                             "category": "Water / Sewer",
                             "annual": {
-                                "actual": 9762.63,
-                                "budget": 11392.440000000002,
+                                "actual": 10678.2,
+                                "budget": 12341.810000000003,
                                 "transactions": [
                                     {
                                         "id": 48682049,
@@ -13419,6 +13699,14 @@
                                         "description": "Water & Wastewater Bill – Dated on 10/23/2025",
                                         "amount": 954.8,
                                         "date": "2025-11-21",
+                                        "__typename": "GeneralLedgerEntryTransaction"
+                                    },
+                                    {
+                                        "id": 59320183,
+                                        "transactionType": null,
+                                        "description": "Water & Wastewater Bill – Dated on 11/21/2025",
+                                        "amount": 915.57,
+                                        "date": "2025-12-22",
                                         "__typename": "GeneralLedgerEntryTransaction"
                                     }
                                 ],
@@ -13591,9 +13879,18 @@
                                     "__typename": "BudgetActualSubAccount"
                                 },
                                 {
-                                    "actual": 0,
+                                    "actual": 915.57,
                                     "budget": 949.37,
-                                    "transactions": [],
+                                    "transactions": [
+                                        {
+                                            "id": 59320183,
+                                            "transactionType": null,
+                                            "description": "Water & Wastewater Bill – Dated on 11/21/2025",
+                                            "amount": 915.57,
+                                            "date": "2025-12-22",
+                                            "__typename": "GeneralLedgerEntryTransaction"
+                                        }
+                                    ],
                                     "__typename": "BudgetActualSubAccount"
                                 }
                             ],
@@ -13606,7 +13903,7 @@
                     "category": "Reserve Contributions/Transfers",
                     "annual": {
                         "actual": 0,
-                        "budget": 24001.320000000003,
+                        "budget": 26001.430000000004,
                         "__typename": "BudgetActual"
                     },
                     "monthlyBreakdown": [
@@ -13700,7 +13997,7 @@
                             "category": "Reserve Contribution (Transfer to Reserve)",
                             "annual": {
                                 "actual": 0,
-                                "budget": 24001.320000000003,
+                                "budget": 26001.430000000004,
                                 "transactions": [],
                                 "__typename": "BudgetActualSubAccount"
                             },
@@ -13786,7 +14083,7 @@
             ],
             "startDate": "2025-01-01T00:00:00.000Z",
             "endDate": "2025-12-31T00:00:00.000Z",
-            "isBudgetExpired": false,
+            "isBudgetExpired": true,
             "isBudgetInProcess": false,
             "__typename": "BudgetActualResponse"
         }
